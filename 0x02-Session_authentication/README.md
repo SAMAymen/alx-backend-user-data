@@ -1,0 +1,2 @@
+# 0x02. Session authentication
+In this project, you will implement a **Session Authentication** system without using external modules. You will create classes and methods to handle session creation, user identification, and session expiration, and store session data in memory and a database. The tasks include setting up routes for login and logout, managing session cookies, and ensuring session security.

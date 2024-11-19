@@ -1,0 +1,2 @@
+# User Authentication Service
+This project involves creating a user authentication service using SQLAlchemy, bcrypt, and Flask. It includes tasks such as creating user models, handling user registration and login, managing sessions, and implementing password reset functionality. The final task is an end-to-end integration test using the `requests` module to ensure all functionalities work as expected.
